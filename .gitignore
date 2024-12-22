@@ -1,0 +1,5 @@
+vir_env/
+pass.txt
+erp/.env
+*.pyo
+*.pyc
